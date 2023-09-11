@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.myfilm.forfan",
 
 	"apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/"
 
