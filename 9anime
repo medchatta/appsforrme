@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.kiloo.subwaysurf",
+	"appPackage" : "com.animemy.animo",
 
 	"apiUrl" : "http://cinemo-admin.semdcaog.com/api/"
 
