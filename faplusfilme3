@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.filmprime.hdmovies",
+	"appPackage" : "com.ione.topmovies",
 
 	"apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/"
 
