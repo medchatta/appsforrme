@@ -1,7 +1,7 @@
 {
 
 	"ad_network" : "applovin",
-	"newAppStatus" : "off",
-	"new_package_name" : "com.myhunter.vpnfaster"
+	"newAppStatus" : "on",
+	"new_package_name" : "com.vpnspeed.fast"
 	
 }
