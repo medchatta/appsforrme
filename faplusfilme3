@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.ione.topmovies",
+	"appPackage" : "com.playermovies.betfoox",
 
 	"apiUrl" : "https://cinemart.uk/api/"
 
