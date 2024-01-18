@@ -6,11 +6,11 @@
 
 
 
-	"newAppStatus" : "off",
+	"newAppStatus" : "on",
 
 
 
-	"appPackage" : "com.olinehd.firstpc",
+	"appPackage" : "com.filmprime.hdmovies",
 
 	"apiUrl" : "https://cinemart.uk/api/"
 
